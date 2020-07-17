@@ -1,5 +1,24 @@
-#welcome {
-  font-size: 48px;
-  color: rgb(88, 196, 234);
-  font: arial;
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #004c54;
+  color: white;
+  font-size: 30px;
+}
+
+body {
+  margin: auto;
+  background-image: url("img/trophy.jpg");
+  background-repeat: no-repeat;
+}
+
+iframe {
+  position: relative;
+  float: right;
+  padding-right: 30px;
+}
+
+h2 {
+  text-align: center;
+  padding-left: 1.8rem;
 }
